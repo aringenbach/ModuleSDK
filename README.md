@@ -1,3 +1,3 @@
 # ModuleSDK
 
-Module SDK.
+Module SDK
